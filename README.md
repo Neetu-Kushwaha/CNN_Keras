@@ -6,13 +6,13 @@ Prerequisites
 •	Sklearn
 
 Getting started
-CIFAR-10 Dataset
+CIFAR-10 Dataset:-
 The CIFAR-10 dataset consists of 60000 32×3232×32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images.
 Data Storage Format
 Pickle module is used to store the data. Python pickle module is used for serializing and de-serializing a Python object structure. Any object in Python can be pickled so that it can be saved on disk. What pickle does is that it “serializes” the object first before writing it to file. Pickling is a way to convert a python object (list, dict, etc.) into a character stream. The idea is that this character stream contains all the information necessary to reconstruct the object in another python script.
 
-KerasCNN.ipynb Notebook
-In this notebook, we will learn to define a CNN for classification of CIFAR-10 dataset using Keras and store activation values of intermediate layers of testing data.
+KerasCNN.ipynb Notebook:-
+In this notebook, we will learn to define a CNN for classification of the CIFAR-10 dataset using Keras and store activation values of intermediate layers of testing data.
 Training: Training an image classifier
 We will do the following steps in order:
 1.	Load and normalizing the CIFAR10 training and test datasets using Keras.
