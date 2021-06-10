@@ -24,6 +24,6 @@ We will do the following steps in order:
 Test Accuracy:
 The test accuracy reached 64%.
 Output:
-•	CNN Keras model for CIFAR-10 dataset.
-•	Activation dataset and prediction Class (Python Pickle Module is used to save the data/file)
+- CNN Keras model for CIFAR-10 dataset.
+- Activation dataset and prediction Class (Python Pickle Module is used to save the data/file)
 
